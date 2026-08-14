@@ -26,7 +26,7 @@
 ```{toctree}
 :hidden:
 
-SF32LB52x-HW-Self-Check
+
 
 
 ```
