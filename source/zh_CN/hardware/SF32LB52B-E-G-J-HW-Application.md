@@ -6,6 +6,16 @@
 对于后缀为数字`0、3、5、7`的芯片，属于SF32LB52x系列,使用锂电池供电，支持USB充电。应该参照[硬件设计指南](/hardware/SF32LB520-3-5-7-HW-Application)
 :::
 
+## 资源下载
+
+[SIFLI-MCU-AVL-认证表](https://downloads.sifli.com/hardware/files/documentation/SIFLI-MCU-AVL-%E8%AE%A4%E8%AF%81%E8%A1%A8-V0.3-20260121.xlsx?)
+
+芯片元件封装&原理图：
+[嘉立创库](https://downloads.sifli.com/hardware/files/documentation/ProPrj_sifli-iclib_2026-04-20.epro2?)
+[PADS库](https://downloads.sifli.com/hardware/files/documentation/PADS-SIFLI-IC.ZIP?)
+[Orcad库](https://downloads.sifli.com/hardware/files/documentation/OrCAD-SIFLI-IC.OLB?)
+[Kicad库](https://github.com/OpenSiFli/kicad-libraries)
+
 ## 基本介绍
 
 本文的主要目的是帮助开发人员完成基于SF32LB52X系列芯片的手表方案开发。本文重点介绍方案开发过程中的硬件设计相关注意事项，尽可能的减少开发人员工作量，缩短产品的上市周期。
