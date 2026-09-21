@@ -1,5 +1,15 @@
 # SF32LB52x-硬件设计指南
 
+## 资源下载
+
+[SIFLI-MCU-AVL-认证表](https://downloads.sifli.com/hardware/files/documentation/SIFLI-MCU-AVL-%E8%AE%A4%E8%AF%81%E8%A1%A8-V0.3-20260121.xlsx?)
+
+芯片元件封装&原理图：
+[嘉立创库](https://downloads.sifli.com/hardware/files/documentation/ProPrj_sifli-iclib_2026-04-20.epro2?)
+[PADS库](https://downloads.sifli.com/hardware/files/documentation/PADS-SIFLI-IC.ZIP?)
+[Orcad库](https://downloads.sifli.com/hardware/files/documentation/OrCAD-SIFLI-IC.OLB?)
+[Kicad库](https://github.com/OpenSiFli/kicad-libraries)
+
 :::{attention}
 本文档适配后缀为数字0、3、5、7的芯片，使用锂电池供电，支持USB充电。
 

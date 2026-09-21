@@ -1,9 +1,12 @@
 # 思澈选型手册
 
-***芯片、模组规格书与用户手册***
+**[*芯片、模组规格书与用户手册*](https://wiki.sifli.com/docs/product-index.html) **
 
+
+
+<!-- 
 ```{tip}
-不确定适合的芯片型号？可使用[芯片选型对比工具](../_static/芯片选型对比.html)，按需求筛选并比较产品规格。
+不确定适合的芯片型号？可使用[芯片选型对比工具](https://wiki.sifli.com/_static/%E8%8A%AF%E7%89%87%E9%80%89%E5%9E%8B%E5%AF%B9%E6%AF%94.html)，按需求筛选并比较产品规格。
 ```
 
 [中文规格书55x]: https://downloads.sifli.com/docs/Datasheet/sf32lb55/DS5501-SF32LB55x-%E8%8A%AF%E7%89%87%E6%8A%80%E6%9C%AF%E8%A7%84%E6%A0%BC%E4%B9%A6%20V1p7p2.pdf
@@ -88,7 +91,7 @@
 
 零售样品与小批量可直接在[淘宝](https://sifli.taobao.com/)购买，批量客户可发邮件到sales@sifli.com或淘宝找客服获取销售联系方式。
 参与开源可以免费申请样品，可加入QQ群674699679进行交流。
-
+ -->
 
 ```{toctree}
 :hidden:
